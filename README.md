@@ -3,3 +3,6 @@
 ## 1. What is git?
 
 ## 2. Lession.
+
+## 3. How to contribute.
+Local edit
