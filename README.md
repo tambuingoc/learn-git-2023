@@ -6,3 +6,4 @@
 
 ## 3. How to contribute.
 Local edit
+## 4. How to pull.
